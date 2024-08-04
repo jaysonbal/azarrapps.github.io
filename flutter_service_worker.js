@@ -52,7 +52,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5a6a25f918c4ae52d2b039c3bfe9c128
 "favicon.ico": "e5821b0369f24a17da0643ed29f028c9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "7c00276d48bb73aca9b366e809c251ee",
+"flutter_bootstrap.js": "c69faf78fcbaa899bc045b4e0fa884ac",
 "icons/android-icon-144x144.png": "644108ab3fc6bc51217b088a2ace4730",
 "icons/android-icon-192x192.png": "90a304626b8e6442041b92687996df33",
 "icons/android-icon-36x36.png": "66c72f8535a0ffe85d0b2fa3a9c63aef",
@@ -74,9 +74,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "5a6a25f918c4ae52d2b039c3bfe9c128
 "icons/ms-icon-150x150.png": "8fcd53f442ede017fabf495121225c7f",
 "icons/ms-icon-310x310.png": "3aac815f74ff587fcc9b397ada131cdd",
 "icons/ms-icon-70x70.png": "1eaba17d2793a0d50ad6b8e2f7f67e8e",
-"index.html": "0cbd6ff61856e9ae0391cafe5c5d2411",
-"/": "0cbd6ff61856e9ae0391cafe5c5d2411",
-"main.dart.js": "645637a6abaf458e7c3adcc06a77864b",
+"index.html": "ddb3f89a03daf811af7de758a30c26a4",
+"/": "ddb3f89a03daf811af7de758a30c26a4",
+"main.dart.js": "8bfa16603dc11f41e692ef9afccaea82",
 "manifest.json": "832c5210f86156328b7c853b860ccdc1",
 "version.json": "155126ffab7b53e683c948669a9a76b4"};
 // The application shell files that are downloaded before a service worker can
